@@ -1,4 +1,4 @@
-const API_KEY = "1d51b32c822bf43d62b7975ca14f31ed";
+const API_KEY = "Your Api Key";
 
 export default {
     fetchTrending: `/trending/all/week?api_key=${API_KEY}&language=en-US`,
